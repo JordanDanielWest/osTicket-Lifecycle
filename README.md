@@ -35,6 +35,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/8927d938-c113-4368-a4ab-82bd436fcfdf)
 
+- Open New Ticket
+
+![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/0cf9e600-04b7-4938-a853-e076243cee20)
+
+- Fillout email address, name should auto fill
+- Select Help Topic from dropdown menu
+- Fillout Ticket Details
+- Create Ticket
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
