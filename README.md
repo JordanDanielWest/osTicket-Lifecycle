@@ -54,6 +54,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Post reply in order to keep Customer(Ken) updated on status
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/b141689c-8610-4992-8115-fd200321ccb8)
 - Log out at Jane
+
+<h3>Working the Issue</h3>
+
 - Log in as John
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/3fe52cee-b8b7-4f61-ae68-29282a696cad)
 - When we log in as John we are immediately taken to open tickets and see our high priority ticket
@@ -61,6 +64,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Changed Status to Resolved
 - Posted Reply
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/583f471a-8136-4c92-befa-2ae29502b118)
+
+<h3>Resolution</h3>
+
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/db50168b-86d6-44d1-abde-fede61830e7f)
 
 
