@@ -51,12 +51,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/9c25d8da-7144-4359-ad1a-647af660f8b7)
 - Assign it to the appropriate tech
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/3a584378-4d4c-47e3-97f5-2fb8423e9311)
-- Post reply ino order to keep Customer(Ken) updated on status
+- Post reply in order to keep Customer(Ken) updated on status
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/b141689c-8610-4992-8115-fd200321ccb8)
 - Log out at Jane
 - Log in as John
 ![image](https://github.com/JordanDanielWest/osTicket-Lifecycle/assets/96628562/3fe52cee-b8b7-4f61-ae68-29282a696cad)
-- When we log in as John we are immediately take to open tickets and see our high priority ticket
+- When we log in as John we are immediately taken to open tickets and see our high priority ticket
 - John fixed the issue
 - Changed Status to Resolved
 - Posted Reply
